@@ -1,7 +1,9 @@
 From Tom
 
 No from Tim!
-
+bool isTrue;
+while(isTrue)
+	console.log("haha");
 
 # My first chapter 
 
